@@ -1,0 +1,12 @@
+.gridSixMoviesDetailsTrailers{
+    display: flex;
+    justify-content: center;
+}
+
+.gridContainer{
+ justify-content: center;
+}
+
+.imgScreenShoot{
+    width: 200px;
+}

@@ -1,0 +1,9 @@
+
+.container{
+     margin-top: 40px
+}
+
+.gridSixColumn{
+     display: flex;
+     flex-direction: column;
+}

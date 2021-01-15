@@ -1,0 +1,9 @@
+.containerRouterView{
+    background-color: #151515 ;
+}
+.containerSwitchRouter{
+    position: relative;
+    top: 65px;
+    left: 250px;
+    width: 85%;
+}

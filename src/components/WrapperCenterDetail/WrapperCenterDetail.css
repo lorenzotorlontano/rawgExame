@@ -1,0 +1,8 @@
+.imgBackground{
+    width: 400px ;
+}
+
+.containerWrapperCenterDetail{
+    display: flex;
+    justify-content: center;
+}

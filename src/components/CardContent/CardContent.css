@@ -1,0 +1,46 @@
+.containerCardContent{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+.textCard{
+    font-size: 15px;
+    font-weight: bold;
+}
+.allertTextPositive{
+    color: green;
+    margin-top: 20px;
+}
+
+.allertTextNegative{
+    color: red; 
+    margin-top: 20px;
+}
+
+.girdSix{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.spanText{
+    border: 1px solid;
+    border-color: rgba(109,200,73,.4);
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: bold;
+    font-size: 14px;
+    max-height: 18px;
+}
+
+.textContentCard{
+    color: white;
+}
+
+.spanNameOfCard{
+    font-size: 25px;
+    font-weight: bold;
+    cursor: pointer 
+}
+.iconButton{
+    color: white;
+}
